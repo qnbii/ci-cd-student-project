@@ -1,6 +1,6 @@
 # CI/CD Student Project
 
-![CI Status](https://github.com/qnbii/ci-cd-student-project/.github/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/qnbii/ci-cd-student-project/github/workflows/ci.yml/badge.svg)
 
 Простой проект для демонстрации CI/CD pipeline с автоматическим тестированием.
 
